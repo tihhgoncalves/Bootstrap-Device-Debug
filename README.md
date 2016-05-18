@@ -16,9 +16,12 @@ Para carregar:
     <link rel="stylesheet" href="bower_components/bootstrap-device-debug/bootstrap-device-debug.css">
     
 #### Download
+
 Você pode também baixar o script manualmente e carregar os arquivos conforme ensinado acima.
 
 ## Desenvolvimento
+
 Esse projeto é uma iniciativa de [@tihhgoncalves](https://github.com/tihhgoncalves).
+
 Esse projeto tem o apoio (sem fins lucrativos) da [Z.BRA Estúdio](http://www.zbraestudio.com.br).
   
