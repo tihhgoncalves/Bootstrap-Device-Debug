@@ -18,3 +18,6 @@ Para carregar:
     
 ### Download
 Você pode também fazer download do script manualmente e carregar o script do mesmo modo que no Bower.
+
+### Desenvolvedores
+* Tihh Gonçalves (tiago@tiago.art.br)
