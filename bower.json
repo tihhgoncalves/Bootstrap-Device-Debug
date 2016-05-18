@@ -1,7 +1,7 @@
 {
-  "name": "Bootstrap Device Debug",
+  "name": "bootstrap-device-debug",
   "main": "bootstrap-device-debug.js",
-  "homepage": "https://github.com/tihhgoncalves/Bootstrap-Device-Debug",
+  "homepage": "https://github.com/tihhgoncalves/bootstrap-device-debug",
   "authors": [
     "Tihh Gonçalves <tihh.gon@gmail.com>"
   ],
