@@ -3,7 +3,7 @@ O objetivo é de identificar qual a plataforma que está atualmente atuando.
 
 ## Instalação
 
-## Bower
+### Bower
 
 Para instalar o Bootstrap Device Debug no BOWER:
 
@@ -16,3 +16,5 @@ Para carregar:
     <link rel="stylesheet" href="bower_components/bootstrap-device-debug/bootstrap-device-debug.css">
 
     
+### Download
+Você pode também fazer download do script manualmente e carregar o script do mesmo modo que no Bower.
