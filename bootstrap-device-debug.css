@@ -29,3 +29,18 @@
  @media (min-width: 1200px) { /* lg - Desktops */
    #deviceDebugLG{ display: block; }
  }
+
+
+#deviceDebugResolution{
+  width: 80px;
+  height: 25px;
+  background-color: red;
+  text-align:center;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+
+  font-size: 10px;
+  line-height: 25px;
+  color: #FFF;
+}
