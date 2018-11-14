@@ -19,6 +19,16 @@ Para carregar:
 
 Você pode também baixar o script manualmente e carregar os arquivos conforme ensinado acima.
 
+### Direto por CDN
+
+Para utilizar sem baixar os arquivs (direto de um CDN), utilize o script abaixo:
+
+ 
+    <!--BOWER - Bootstrap Device Debug -->
+    <script src="https://cdn.jsdelivr.net/gh/tihhgoncalves/bootstrap-device-debug@master/bootstrap-device-debug.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tihhgoncalves/bootstrap-device-debug@master/bootstrap-device-debug.css">
+    
+
 ## Desenvolvimento
 
 Esse projeto é uma iniciativa de [@tihhgoncalves](https://github.com/tihhgoncalves).
