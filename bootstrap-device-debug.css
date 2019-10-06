@@ -15,7 +15,7 @@
 }
 
 
- @media (max-width: 480px){ /* xs - Celulares com telas menores */
+ @media (max-width: 575.97px){ /* xs - Celulares com telas menores */
    #deviceDebugXS{ display: block; }
  } 
  
