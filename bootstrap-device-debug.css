@@ -15,20 +15,24 @@
 }
 
 
- @media (max-width: 768px){ /* xs - Celulares com telas menores */
+ @media (max-width: 575.98px){ /* xs - Celulares com telas menores */
    #deviceDebugXS{ display: block; }
  } 
  
- @media (min-width :  769px) and (max-width :  991px) { /* sm - Celulares*/
+ @media (min-width: 576px) and (max-width: 767.98px) { /* sm - Celulares*/
    #deviceDebugSM{ display: block; }
  }
  
- @media (min-width: 992px) and (max-width: 1199px) { /* md - Tablets*/
+ @media (min-width: 768px) and (max-width: 991.98px) { /* md - Tablets*/
    #deviceDebugMD{ display: block; }
  }
  
- @media (min-width: 1200px) { /* lg - Desktops */
+ @media (min-width: 992px) and (max-width: 1199.98px) { /* lg - Desktops */
    #deviceDebugLG{ display: block; }
+ }
+
+@media (min-width: 1200px){ /* xl - Desktops gigantes */
+   #deviceDebugXL{ display: block; }
  }
 
 
